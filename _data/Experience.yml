@@ -2,21 +2,22 @@ subject: Experiences
 listing-order: 2
 icon: "/assets/img/briefcase.svg"
 contents:
-  - title: Nanosoft
-    role: Project Manager
+  - title: ING
+    role: Data Scientist
     description:
-      - Led development of a new chatbot software utilizing large language model
-      - Co-designer of '*Kopilot*' and '*Gemmini*'
-    date: Jan. 2024 - Ongoing
-  - title: Amazone
-    role: Senior Software Engineer
+      - Built end-to-end Machine Learning pipelines for forecasting and customer segmentation within the retail banking domain
+      - Developed LLM-based applications for conversational analytics and customer feedback to enhance customer experience within contact centres
+      - Collaborated with cross-functional teams to deploy scalable data solutions in SAS, GCP, and Azure DevOps environment
+    date: 2022 - Ongoing
+  - title: Philips Healthcare
+    role: Data Scientist Intern, Generative AI
     description: 
       - Built a Java microservice, database schema to manage customer accounts
       - Enhanced internal pipelines to query real-time data from client devices
-    date: Apr. 2016 - Dec. 2018
-  - title: Pacebook
-    role: Software Engineer Intern
+    date: 2021 - 2022
+  - title: EY
+    role: Data Analytics Intern
     description: 
       - Designed the dynamic website using React for data visualization
       - Integrated '*Yolo*' to boost the accuracy of the object detection
-    date: Jul. 2013 - Sep. 2013
+    date: 2020 - 2021

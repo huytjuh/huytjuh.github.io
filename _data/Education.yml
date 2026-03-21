@@ -2,16 +2,17 @@ subject: Education
 listing-order: 1
 icon: "/assets/img/graduation-cap.svg"
 contents:
-  - title: MSc in Econometrics, Erasmus University Rotterdam
+  - title: MSc. in Econometrics, Erasmus University Rotterdam
     description:
-      - Major in Econometrics and quantitative marketing focusing on Data Science and Machine Learning
-      - Fundamental and advanced courses in statistics, Machine Learning, and NLP
-      - Extensive thesis on Generative Adversarial Networks (GANs) and generative models forming the basis of today's LLMs
-    date: Sep. 2020 - Dec. 2022
-    grade: "**Thesis**: `8/10`"
-  - title: BSc in Econometrics & Operations Research, Erasmus University Rotterdam
+      - Specialized in Data Science and Machine Learning with a focus on causal inference, predictive modeling, and Machine Learning
+      - Advanced coursework in time-series analysis (ARIMA), Deep Learning architectures (LSTM), and transformer-based sequence models (Seq2Seq)
+      - "Thesis: Research on Generative Adversarial Networks (GANs) and synthetic data generation which forms the basis of modern LLM foundation models (GPT)"
+    date: Sep. 2020 – Dec. 2022
+    grade: "**Thesis**: `8.3/10`"
+  - title: BSc. in Econometrics & Operations Research, Erasmus University Rotterdam
     description:
-      - Development of deep learning algorithms for automatically tracking the facial expressions
-      - Optimizing parameter efficient fine tuning for fairness in medical image analysis
-    grade: "**Thesis**: `8/10`"
-    date: Sep. 2016 - Sep. 2020
+      - Major in statistical modeling, linear algebra, and combinatorial optimization for quantitative customer analytics and business operations
+      - Strong foundation in probability theory, inferential statistics, and mathematical optimization
+      - "Thesis: Developed a recommendation system for e-commerce using collaborative filtering (ALS) and clustering techniques (DBSCAN) to model customer behaviour and purchase intent"
+    grade: "**Thesis**: `8.0/10`"
+    date: Sep. 2016 – Sep. 2020
