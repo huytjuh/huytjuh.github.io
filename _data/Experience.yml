@@ -2,22 +2,24 @@ subject: Experiences
 listing-order: 2
 icon: "/assets/img/briefcase.svg"
 contents:
-  - title: ING
+  - title: ING NL
     role: Data Scientist
     description:
-      - Built end-to-end Machine Learning pipelines for forecasting and customer segmentation within the retail banking domain
-      - Developed LLM-based applications for conversational analytics and customer feedback to enhance customer experience within contact centres
-      - Collaborated with cross-functional teams to deploy scalable data solutions in SAS, GCP, and Azure DevOps environment
-    date: 2022 - Ongoing
+      - Deployed end-to-end Machine Learning pipelines for forecasting and customer segmentation within the retail banking domain
+      - Productionized LLM-based applications for conversational analytics and customer feedback classification to enhance customer experience within contact centres
+      - Implement scalable data architectures across SAS, GCP, and Azure, ensuring model reliability, CI/CD integration, and compliance with data governance standards
+    date: Apr. 2022 - Ongoing
   - title: Philips Healthcare
     role: Data Scientist Intern, Generative AI
     description: 
-      - Built a Java microservice, database schema to manage customer accounts
-      - Enhanced internal pipelines to query real-time data from client devices
-    date: 2021 - 2022
-  - title: EY
+      - Designed a real-time vision-based object detection model using YOLOv3 for patient monitoring as part of Covid-19 response efforts in healthcare settings
+      - Improved model detection accuracy by 15% with Generative Adversarial Networks (GANs) for synthetic data augmentation, addressing critical class imbalance in medical imaging datasets
+      - Conduct extensive research on synthetic data generation using GANs to resolve data scarcity and patient privacy constraints in regulated healthcare environments
+    date: Feb. 2021 - Mar. 2022
+  - title: Ernst & Young (EY)
     role: Data Analytics Intern
     description: 
-      - Designed the dynamic website using React for data visualization
-      - Integrated '*Yolo*' to boost the accuracy of the object detection
-    date: 2020 - 2021
+      - Built a hybrid time-series forecasting model using ARIMA + LSTM to predict Nielsen's viewership trends, achieving a 20% improvement in forecasting accuracy over the baseline LSTM model
+      - Developed an interactive dashboard in Power BI to track KPI trends and forecasting results, enabling data-driven decision making for Nielsen's executive team
+      - Translated complex data insights and forecasting results into stakeholder presentations to non-technical stakeholders, facilitating strategic planning and business growth for Nielsen
+    date: Jan. 2020 - Jan. 2021
