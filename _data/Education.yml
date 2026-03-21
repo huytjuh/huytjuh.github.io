@@ -4,8 +4,9 @@ icon: "/assets/img/graduation-cap.svg"
 contents:
   - title: MSc in Econometrics, Erasmus University Rotterdam
     description:
-      - Major in Econometrics and quantitative marketing focusing on Machine Learning and LLMs
-      - Development of model calibration algorithm for cross-domain few-shot learning
+      - Major in Econometrics and quantitative marketing focusing on Data Science and Machine Learning
+      - Fundamental and advanced courses in statistics, Machine Learning, and NLP
+      - Extensive thesis on Generative Adversarial Networks (GANs) and generative models forming the basis of today's LLMs
     date: Sep. 2020 - Dec. 2022
     grade: "**Thesis**: `8/10`"
   - title: BSc in Econometrics & Operations Research, Erasmus University Rotterdam
