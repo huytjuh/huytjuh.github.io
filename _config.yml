@@ -5,16 +5,17 @@ icon_img: /assets/img/icon.webp
 name: "Huy Huynh"
 job: "Data Scientist"
 
-phone_number: 06-39600410
+phone_number: +316 39600410
 address: Amsterdam, NL
 email: huytjuh@gmail.com
 linkedin_username: linkedin.com/in/huy-huynh96
-github_username: github
-instagram_username: instagram
-twitter_username: twitter
-facebook_username: facebook
-youtube_username: youtube
-blog_url: homepage-url
+office_email: huy.huynh@ing.com
+
+home_url: https://huytjuh.github.io/
+github_username: github.com/huytjuh
+stackoverflow_username: stackoverflow.com/users/1234567/huy-huynh
+medium_username: medium.com/@huyhuynh
+kaggle_username: kaggle.com/huyhuynh
 
 # If your repo name follows the format "<user-name>.github.io", then leave the below blank.
 # Otherwise, set its value as "/<repo-name>". ex) baseurl: /resume

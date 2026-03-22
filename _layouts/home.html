@@ -51,18 +51,20 @@
             <div><span>@{{ site.linkedin_username }}</span></div>
           </a></li>
         {% endif %}
+        {% if site.work_email %}
+          <li><a aria-label="My Workemail" href="mailto:{{ site.work_email }}">
+            <img src="{{ '/assets/img/envelope.svg' | prepend: site.baseurl }}" alt="My Workemail">
+            <div><span>@{{ site.work_email }}</span></div>
+          </a></li>
+        {% endif %}
+
         {% if site.github_username %}
           <li><a aria-label="My Github" href="https://github.com/{{ site.github_username }}">
             <img src="{{ '/assets/img/github.svg' | prepend: site.baseurl }}" alt="My Github">
             <div><span>@{{ site.github_username }}</span></div>
           </a></li>
         {% endif %}
-        {% if site.twitter_username %}
-          <li><a aria-label="My Twitter" href="https://twitter.com/{{ site.twitter_username }}">
-            <img src="{{ '/assets/img/twitter.svg' | prepend: site.baseurl }}" alt="My Twitter">
-            <div><span>@{{ site.twitter_username }}</span></div>
-          </a></li>
-        {% endif %}
+
         {% if site.instagram_username %}
           <li><a aria-label="My Instagram" href="https://www.instagram.com/{{ site.instagram_username }}">
             <img src="{{ '/assets/img/instagram.svg' | prepend: site.baseurl }}" alt="My Instagram">
