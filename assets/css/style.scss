@@ -2,7 +2,7 @@
 ---
 
 :root {
-    --color-background: #121212;
+    --color-background: #fffdfb;
     --theme1-light: #F6D8CB;
     --theme1-medium: #D0A694;
     --theme1-dim: #B07D67;
@@ -14,21 +14,12 @@
     --theme3-light: #FFF8E4;
     --theme3-medium: #EBDFBB;
     --theme3-dim: #C8B887;
-    --theme3-dark: #545B62;
+    --theme3-dark: #A8955A;
     --theme4-light: #AABEB6;
-    --theme4-medium: #21808D;
+    --theme4-medium: #7FA093;
     --theme4-dim: #5C8876;
     --theme4-dark: #3D725D;
-    
-     /* ─── Perplexity Teal/Cyan Accent Palette ─── */
-    --theme4-light:  #7DDDE8;   /* soft cyan tint */
-    --theme4-medium: #20B8CD;   /* Perplexity UI accent cyan */
-    --theme4-dim:    #1AA3B5;   /* hover/pressed cyan */
-    --theme4-dark:   #21808D;   /* Perplexity brand teal (deep links) */
-
-    --font-dark: #fafafa;
-
-    
+    --font-dark: #202424;
 }
 
 html, body {
@@ -63,7 +54,7 @@ a { text-decoration:none; }
         width: 100%;
         position: relative;
         margin: 3rem auto;
-        background-color: var(--theme4-medium); //background
+        background-color: var(--theme4-medium);
 
         &:before {
             content:"";
@@ -84,7 +75,7 @@ a { text-decoration:none; }
         left:50%;
         transform: translate(-50%, -50%);
         border-radius:50%;
-        border: 4px solid var(--theme3-dark); //profile border
+        border: 4px solid var(--theme3-dark);
     }
 
     .profile-zone .personal-info {
@@ -176,8 +167,8 @@ a { text-decoration:none; }
         margin: 0;
     }
     
-    .name-zone h1 { color: var(--font-dark); } //name
-    .name-zone h2 { color: var(--theme4-dark); } //title
+    .name-zone h1 { color: var(--theme3-dark); }
+    .name-zone h2 { color: var(--theme4-dark); }
 }
 
 #contents{
@@ -194,7 +185,7 @@ a { text-decoration:none; }
 
     .subject-name {
         margin: 3rem auto;
-        color: var(--font-dark); //subject name
+        color: var(--font-dark);
         position: relative;
         margin-left: -16px;
         margin-bottom: 0;
