@@ -14,12 +14,12 @@
     --theme3-light: #FFF8E4;
     --theme3-medium: #EBDFBB;
     --theme3-dim: #C8B887;
-    --theme3-dark: #A8955A;
+    --theme3-dark: #545B62;
     --theme4-light: #AABEB6;
     --theme4-medium: #21808D;
     --theme4-dim: #5C8876;
     --theme4-dark: #3D725D;
-    --font-dark: #202424;
+    --font-dark: #fafafa;
 }
 
 html, body {
@@ -167,7 +167,7 @@ a { text-decoration:none; }
         margin: 0;
     }
     
-    .name-zone h1 { color: var(--theme3-dark); }
+    .name-zone h1 { color: var(--font-dark); }
     .name-zone h2 { color: var(--theme4-dark); }
 }
 
