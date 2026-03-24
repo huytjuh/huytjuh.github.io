@@ -8,13 +8,13 @@ contents:
       - Translate statistical concepts and hypothesis testing into intuitive, reliable model diagnostics and reasoning
       - Architect agentic AI workflows where explainable ML and statistical reasoning converge, enabling transparent, auditable agent decision-making
     image: "![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg)"
-  - title: "ChatPPT ([https://chat.opena1.com/](https://chat.openai.com/))"
+  - title: "LLM Model Evaluation Framework on Conversational Analytics"
     description: 
       - Chatbot developed based on a large language model
       - Designed Generative algorithm to generate novel human-like content
       - "Technology Used: Rust, Typescript, Python, Ruby"
     image: "![](https://i.ibb.co/hX2wYLB/231321.webp)"
-  - title: "PiTorch ([https://pitorch.org/](https://pytorch.org/))" 
+  - title: "LLM Applications in Azure DevOps" 
     description: 
       - Machine learning library for applications such as computer vision and natural language processing
       - "Technology Used: Python, Cuda, Objective-C++"
