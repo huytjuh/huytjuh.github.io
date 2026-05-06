@@ -1,6 +1,6 @@
 subject: Certificates
 listing-order: 4
-icon: "/assets/img/flask.svg"
+icon: "/assets/img/trophy.svg"
 contents:
   - title: Advanced LLMs
     ref: 
