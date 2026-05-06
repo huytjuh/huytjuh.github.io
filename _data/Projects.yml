@@ -12,10 +12,7 @@ contents:
     description: 
       - Chatbot developed based on a large language model
       - Designed Generative algorithm to generate novel human-like content
-      - "Technology Used: Rust, Typescript, Python, Ruby"
-    image: "![](https://i.ibb.co/hX2wYLB/231321.webp)"
-  - title: "LLM Applications in Azure DevOps" 
-    description: 
-      - Machine learning library for applications such as computer vision and natural language processing
-      - "Technology Used: Python, Cuda, Objective-C++"
-    image: "![](https://i.ibb.co/R9150c4/12421323.webp)"
+  - title: "LLM Applications in Google Cloud Platform"
+    description:
+      - Large language model applications for text generation, summarization, and question answering on Google Cloud Platform using managed and custom models
+      - Technology Used: Python, CUDA, GCP (Vertex AI, BigQuery, Cloud Storage, Cloud Run)
